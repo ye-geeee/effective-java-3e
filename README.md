@@ -1,10 +1,6 @@
 # effective-java-3e
 Effective Java 3/E를 공부하자👾
 
-# Designing Data-Intensive Applications
-
-- The big ideas behind reliable, scalable, and maintainable systems
-
 ## Part 1. Foundations of Data Systems
 
 | 날짜       | 아이템                                                                              |
